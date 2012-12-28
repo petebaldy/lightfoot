@@ -20,6 +20,12 @@
 echo "hello world from petebaldy!";
 echo "hello from cloud 9";
 echo "new cloud 9 commit";
+echo "another test!!!!";
+//git add README
+//git commit -m 'first commit'
+//git push origin master
+
+
 
 ?>
 
