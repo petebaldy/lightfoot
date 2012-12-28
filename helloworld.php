@@ -18,6 +18,7 @@
 <?php
 
 echo "hello world from petebaldy!";
+echo "hello from cloud 9";
 
 ?>
 
