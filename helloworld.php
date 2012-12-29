@@ -25,7 +25,9 @@ echo "another test!!!!";
 //git commit -m 'first commit'
 //git push origin master
 
-
+//for pushing to heroku:
+//1 create an empty index.php
+//2 git push lightfoot master - so on herolu the app is lightfoot and I am pushing master to it
 
 ?>
 
