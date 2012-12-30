@@ -8,4 +8,4 @@ git remote - tells me what remotes I have open
 
 use a .gitignore for files not to be tracked - e.g. *.[ca]  ignore all files ending in .c or .a
 
-
+use git reset --hard origin/master if the branch and origin/master have diverged, i.e. I have a local change but the remote master was since updated, BUT i don't care about my local changes.
