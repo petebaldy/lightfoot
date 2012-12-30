@@ -8,6 +8,7 @@ git remote - tells me what remotes I have open
 
 use a .gitignore for files not to be tracked - e.g. *.[ca]  ignore all files ending in .c or .a
 
+<<<<<<< HEAD
 for pushing to git hub: git push origin master
 
 for pushing to heroku: git push lightfoot master
@@ -16,3 +17,6 @@ to ignore files use the .gitignore file in root of project
 
 to remove files from index git rm --cached *.c9save
 
+=======
+use git reset --hard origin/master if the branch and origin/master have diverged, i.e. I have a local change but the remote master was since updated, BUT i don't care about my local changes.
+>>>>>>> dc712134a26a654a3a00365e3e533774239615b4
