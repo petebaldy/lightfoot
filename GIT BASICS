@@ -20,3 +20,5 @@ to remove files from index git rm --cached *.c9save
 =======
 use git reset --hard origin/master if the branch and origin/master have diverged, i.e. I have a local change but the remote master was since updated, BUT i don't care about my local changes.
 >>>>>>> dc712134a26a654a3a00365e3e533774239615b4
+
+added at branch test
