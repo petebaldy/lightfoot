@@ -29,7 +29,7 @@ echo "another test!!!!";
 //1 create an empty index.php
 //2 git push lightfoot master - so on heroku the app is lightfoot and I am pushing master to it
 
-/for pushing to git hub:
+//for pushing to git hub:
 // git push origin master
 
 //to ignore files use the .gitignore file in root of project/
