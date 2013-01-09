@@ -1,4 +1,4 @@
-BASICS
+gitBASICS
 git add FILENAME - stages changed files for a commit
 git commit -m 'comment' - adds chnages to local repo
 git push lightfoot master - e.g. pushes these changes to a remote, in this case lightfoot repo on github into the master

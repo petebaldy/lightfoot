@@ -17,7 +17,7 @@ class View {
     } 
      
     public function output() { 
-        return '<a href="example1.php?action=textclicked">' . $this->model->text . '</a>'; 
+        return '<a href="example1.php?action=textClicked">' . $this->model->text . '</a>'; 
     } 
      
 } 
